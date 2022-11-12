@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "author": "Pedro",
+  "description": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "typeorm": "^0.3.10"
+  }
+}
